@@ -1,0 +1,18 @@
+import pandas as pd
+import numpy as np
+from sklearn import preprocessing
+from sklearn import model_selection
+
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+
+
+#文件路径名
+#D:\GoogleDownload\creditcardfraud.csv
+
+print("123")
+
+
+
+
+
